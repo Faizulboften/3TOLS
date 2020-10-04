@@ -29,20 +29,19 @@ echo $or "
 ════════════════════════════════════ 
           
 ════════════════════════════════════
- [[1]] 🔓 [ AKUN FREE FIRE GRATIS ]
+[1]🔓 [ AKUN FREE FIRE GRATIS ]
 ════════════════════════════════════
-[[2]] 🔓   [ OPEN AKUN SUSPEND     ]
+[2]🔓 [ OPEN AKUN SUSPEND   ]
 ════════════════════════════════════
 ┠
 ┗────[[99]] EXIT/PROGTAM🔴"
       echo '\033[35;1m'
        read -p "root@Pilih Nomor > " bro
                 
-               
-               if [ $bro = 1 ] || [ $bro = 1 ]
-               then
-               sleep 12
-               echo $cyan " 🔓 MENGINSTALL "
+             if [ $bro = 1 ] || [ $bro = 1 ]
+              then
+              clear
+              echo $cyan " 🔓 MENGINSTALL "
                sleep 1
                echo $cyan " 🔓 MASUK DAN LOGIN"
                sleep 10
@@ -54,7 +53,7 @@ echo $or "
                
                if [ $bro = 2 ] || [ $bro = 2 ]
                then
-               sleep 10
+               clear
                echo $cyan "🔓 MENGGINSTALL"
                sleep 10
                echo $cyan "🔓 BUKA AKUN ANDA
